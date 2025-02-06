@@ -1,0 +1,13 @@
+*.zip
+*.mp4
+*.mov
+*.pkl
+*.npz
+*.json
+*.npy
+models/
+*.png
+*.jpg
+*.jpeg
+*.txt
+*.vscode

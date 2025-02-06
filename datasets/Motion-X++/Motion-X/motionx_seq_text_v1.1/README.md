@@ -1,0 +1,3 @@
+The latest version of text annotation of Motion-X is augmented by Vicuna 1.5 [1]. The text augmentation is conducted by Ling-Hao CHEN. If you have any questions, please contact  thu.lhchen@gmail.com. This data is distributed under a Motion-X LICENSE (https://motion-x-dataset.github.io/).
+
+[1]: Chiang, Wei-Lin, et al. "Vicuna: An open-source chatbot impressing gpt-4 with 90%* chatgpt quality." See https://vicuna. lmsys. org (accessed 14 April 2023) (2023).
